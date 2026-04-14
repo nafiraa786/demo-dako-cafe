@@ -10,7 +10,7 @@ const ASSETS = [
     './images/gallery-coffee.png',
     './images/gallery-food.png',
     './images/gallery-juice.png',
-    './images/hero-bg.png',
+    './images/hero-img.png',
     './images/menu-breakfast.png'
 ];
 
